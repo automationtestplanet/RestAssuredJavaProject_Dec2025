@@ -1,4 +1,4 @@
 package com.reqres;
 
-public class LoginServiceTests {
+public class LoginServiceTests extends BaseTest {
 }
