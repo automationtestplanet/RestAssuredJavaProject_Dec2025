@@ -14,6 +14,7 @@ import java.util.List;
 import java.util.Map;
 
 public class UserServiceTests extends BaseTest {
+
     UserService userService = new UserService();
 
     @Test

@@ -21,6 +21,5 @@ public class BaseTest {
         requestSpecification = new RequestSpecBuilder()
                 .setBaseUri(baseURI).build()
                 .header("x-api-key", "reqres_c4dd8dedafed4c89ba31edf4eb997630");
-
     }
 }
